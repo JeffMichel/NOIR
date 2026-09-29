@@ -1,0 +1,8 @@
+NOIR ATELIER - Black Week 2026 (site de démonstration)
+
+index.html : le site complet (HTML, CSS, JS dans un seul fichier), images chargées depuis le dossier images/
+images/ : les 37 visuels recadrés et compressés en WebP
+noir-atelier-autonome.html : version tout-en-un, images intégrées (aucun autre fichier requis)
+
+Utilisation : ouvrir index.html dans un navigateur (garder le dossier images/ à côté).
+Les états de date se testent avec ?etat=avant, ?etat=pendant ou ?etat=apres à la fin de l'adresse.
